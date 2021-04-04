@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: eb2acf8dad78ce54785f2d2e79932cea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bladeTRailPrefab: {fileID: 4773045871302380557, guid: 69edde1207cc26c4b93efeb2639ca62b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
